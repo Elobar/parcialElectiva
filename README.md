@@ -1,13 +1,13 @@
 # Sistema Gestor de Ventas e Inventario Express (Mini-POS)
 
-**Estudiante:** Edinso Barros Lopez
+**Estudiante:** [Tu nombre completo aquí]
 **Módulo:** Unidad 1 — Fundamentos de C# (.NET 8)
 
 ## Descripción
 
 Aplicación de consola desarrollada en C# (.NET 8) que simula un punto de venta e inventario básico para una tienda local. Permite registrar productos, consultar el inventario, procesar ventas aplicando IVA (19%) y descuento por cliente frecuente (10%), y consultar un reporte de caja con las estadísticas de la sesión.
 
-El proyecto utiliza únicamente los conceptos de la Unidad 1: variables y tipos primitivos, colecciones (`List<T>`), estructuras de control, métodos estáticos y manejo seguro de errores con `TryParse`. No se implementa Programación Orientada a Objetos (clases personalizadas) ni bases de datos; toda la información se maneja en memoria durante la ejecución.
+El proyecto utiliza únicamente los conceptos de la Unidad 1: variables y tipos primitivos, colecciones (List<T>), estructuras de control, métodos estáticos y manejo seguro de errores con TryParse. No se implementa Programación Orientada a Objetos (clases personalizadas) ni bases de datos; toda la información se maneja en memoria durante la ejecución.
 
 ## Funcionalidades
 
@@ -18,19 +18,18 @@ El proyecto utiliza únicamente los conceptos de la Unidad 1: variables y tipos 
 
 ## Requisitos
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) instalado.
+- .NET 8 SDK instalado (https://dotnet.microsoft.com/download/dotnet/8.0).
 
 ## Cómo clonar y ejecutar
 
-\`\`\`bash
-git clone <URL-de-este-repositorio>
-cd <nombre-de-la-carpeta>
+Clona el repositorio, entra a la carpeta y ejecuta:
+
+git clone URL-DE-ESTE-REPOSITORIO
+cd NOMBRE-DE-LA-CARPETA
 dotnet run
-\`\`\`
 
 ## Ejemplo de ejecución
 
-\`\`\`
 ====================================================
                  REGISTRAR VENTA
 ====================================================
@@ -52,4 +51,3 @@ Aplica descuento de cliente frecuente (10%)? (S/N): S
  TOTAL A PAGAR:        $38.556,00
 ====================================================
 [OK] Venta efectuada con exito. Stock actualizado: 8 unidades.
-\`\`\`
