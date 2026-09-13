@@ -1,6 +1,6 @@
 # Sistema Gestor de Ventas e Inventario Express (Mini-POS)
 
-**Estudiante:** [Tu nombre completo aquí]
+**Estudiante:** Edinso Barros Lopez
 **Módulo:** Unidad 1 — Fundamentos de C# (.NET 8)
 
 ## Descripción
@@ -24,12 +24,15 @@ El proyecto utiliza únicamente los conceptos de la Unidad 1: variables y tipos 
 
 Clona el repositorio, entra a la carpeta y ejecuta:
 
-git clone URL-DE-ESTE-REPOSITORIO
-cd NOMBRE-DE-LA-CARPETA
+\`\`\`bash
+git clone https://github.com/Elobar/parcialElectiva
+cd parcialElectiva
 dotnet run
+\`\`\`
 
 ## Ejemplo de ejecución
 
+\`\`\`
 ====================================================
                  REGISTRAR VENTA
 ====================================================
@@ -51,3 +54,4 @@ Aplica descuento de cliente frecuente (10%)? (S/N): S
  TOTAL A PAGAR:        $38.556,00
 ====================================================
 [OK] Venta efectuada con exito. Stock actualizado: 8 unidades.
+\`\`\`
