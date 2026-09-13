@@ -22,7 +22,7 @@ El proyecto utiliza únicamente los conceptos de la **Unidad 1**:
 
 ## Demostración
 
-![Demostración de la aplicación en consola](main/img/pp.jpg)
+![Demostración de la aplicación en consola](/img/reporteCaja.jpg)
 
 ---
 
