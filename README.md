@@ -20,38 +20,31 @@ El proyecto utiliza únicamente los conceptos de la Unidad 1: variables y tipos 
 
 - .NET 8 SDK instalado (https://dotnet.microsoft.com/download/dotnet/8.0).
 
-## Cómo clonar y ejecutar
+## Como clonar y ejecutar
 
-Clona el repositorio, entra a la carpeta y ejecuta:
+Clona el repositorio, entra a la carpeta y ejecuta estos tres comandos:
 
-\`\`\`bash
 git clone https://github.com/Elobar/parcialElectiva
 cd parcialElectiva
 dotnet run
-\`\`\`
 
-## Ejemplo de ejecución
+## Ejemplo de ejecucion
 
-\`\`\`
-====================================================
-                 REGISTRAR VENTA
-====================================================
-1. Café Colombiano 500g | Precio: $18.000,00 | Stock: 10
-2. Pan Tajado Integral  | Precio: $6.500,00 | Stock: 3 [ALERTA: BAJO STOCK]
+REGISTRAR VENTA
+
+1. Cafe Colombiano 500g | Precio: 18.000,00 | Stock: 10
+2. Pan Tajado Integral  | Precio: 6.500,00 | Stock: 3 [ALERTA: BAJO STOCK]
 
 Seleccione el numero del producto a vender (1-2): 1
 Ingrese la cantidad a comprar: 2
 Aplica descuento de cliente frecuente (10%)? (S/N): S
 
-====================================================
-                  TICKET DE VENTA
-====================================================
- Producto:             Café Colombiano 500g (x2)
- Subtotal:             $36.000,00
- Descuento (10%):     -$3.600,00
- IVA (19%):            +$6.156,00
- ---------------------------------------------------
- TOTAL A PAGAR:        $38.556,00
-====================================================
+TICKET DE VENTA
+
+Producto: Cafe Colombiano 500g (x2)
+Subtotal: 36.000,00
+Descuento (10%): -3.600,00
+IVA (19%): +6.156,00
+TOTAL A PAGAR: 38.556,00
+
 [OK] Venta efectuada con exito. Stock actualizado: 8 unidades.
-\`\`\`
