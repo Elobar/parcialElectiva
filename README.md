@@ -21,14 +21,14 @@ El proyecto utiliza únicamente los conceptos de la **Unidad 1**:
 ---
 
 ## Demostración
-### Registro de productos:
-![Registro de productos](/img/registro.jpeg)
-### Consulta de inventario:
-![Inventario](/img/inventario.jpeg)
-### Registrar una venta:
-![venta](/img/venta.jpeg)
-### Reporte Caja:
-![Reporte de caja](/img/reporteCaja.jpg)
+#### Registro de productos:
+![Registro de productos](img/registro.jpeg)
+#### Consulta de inventario:
+![Inventario](img/inventario.jpeg)
+#### Registrar una venta:
+![venta](img/venta.jpeg)
+#### Reporte Caja:
+![Reporte de caja](img/reporteCaja.jpg)
 
 ---
 
